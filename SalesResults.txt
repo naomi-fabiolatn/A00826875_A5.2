@@ -1,0 +1,8 @@
+Total de ventas: 168145.36
+Tiempo de ejecución: 0.0010 segundos
+
+Errores:
+Advertencia: Producto 'Elotes' no encontrado en el catálogo.
+Advertencia: Cantidad inválida '-35' para el producto 'Fresh blueberries'.
+Advertencia: Producto 'Frijoles' no encontrado en el catálogo.
+Advertencia: Cantidad inválida '-123' para el producto 'Green smoothie'.
